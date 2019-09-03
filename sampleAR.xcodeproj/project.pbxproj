@@ -14,6 +14,7 @@
 		520DA56D230E9CEA001E1097 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 520DA56B230E9CEA001E1097 /* LaunchScreen.storyboard */; };
 		520DA578230E9CEA001E1097 /* sampleARTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 520DA577230E9CEA001E1097 /* sampleARTests.swift */; };
 		520DA583230E9CEA001E1097 /* sampleARUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 520DA582230E9CEA001E1097 /* sampleARUITests.swift */; };
+		520DA591230E9E4F001E1097 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 520DA590230E9E4F001E1097 /* art.scnassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		520DA57E230E9CEA001E1097 /* sampleARUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sampleARUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		520DA582230E9CEA001E1097 /* sampleARUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sampleARUITests.swift; sourceTree = "<group>"; };
 		520DA584230E9CEA001E1097 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		520DA590230E9E4F001E1097 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				520DA569230E9CEA001E1097 /* Assets.xcassets */,
 				520DA56B230E9CEA001E1097 /* LaunchScreen.storyboard */,
 				520DA56E230E9CEA001E1097 /* Info.plist */,
+				520DA590230E9E4F001E1097 /* art.scnassets */,
 			);
 			path = sampleAR;
 			sourceTree = "<group>";
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				520DA56D230E9CEA001E1097 /* LaunchScreen.storyboard in Resources */,
+				520DA591230E9E4F001E1097 /* art.scnassets in Resources */,
 				520DA56A230E9CEA001E1097 /* Assets.xcassets in Resources */,
 				520DA568230E9CE8001E1097 /* Main.storyboard in Resources */,
 			);
